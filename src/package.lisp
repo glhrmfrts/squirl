@@ -86,6 +86,11 @@
    :shape-restitution
    :shape-friction
    :shape-layers
+   :shape-bbox
+   :bbox-left
+   :bbox-right
+   :bbox-top
+   :bbox-bottom
    :circle
    :make-circle
    :circle-radius
